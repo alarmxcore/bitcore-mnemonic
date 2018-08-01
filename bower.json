@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-mnemonic",
-  "main": "./bitcore-mnemonic.min.js",
+  "name": "bitcore-mnemonic-alarmx",
+  "main": "./bitcore-mnemonic-alarmx.min.js",
   "version": "1.1.4",
-  "homepage": "https://github.com/bitpay/bitcore-mnemonic",
+  "homepage": "https://github.com/alarmxcore/bitcore-mnemonic-alarmx",
   "authors": [
     "BitPay"
   ],
@@ -11,7 +11,7 @@
     "globals"
   ],
   "keywords": [
-    "bitcoin",
+    "alarmx",
     "bitcore",
     "btc",
     "satoshi",
